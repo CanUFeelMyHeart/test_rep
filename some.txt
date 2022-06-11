@@ -4,6 +4,12 @@ rwr
 rwrr
 rwrr
 r
+<<<<<<< HEAD
 af
 f
 aff
+=======
+d
+dF
+d
+>>>>>>> 0a6ba0c6f3e97e7adf743123ea6d1a6f7a243798
